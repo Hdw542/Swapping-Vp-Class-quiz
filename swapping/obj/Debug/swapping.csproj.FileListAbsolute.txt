@@ -1,0 +1,6 @@
+c:\users\hadi\documents\visual studio 2012\Projects\swapping\swapping\bin\Debug\swapping.exe.config
+c:\users\hadi\documents\visual studio 2012\Projects\swapping\swapping\bin\Debug\swapping.exe
+c:\users\hadi\documents\visual studio 2012\Projects\swapping\swapping\bin\Debug\swapping.pdb
+c:\users\hadi\documents\visual studio 2012\Projects\swapping\swapping\obj\Debug\swapping.csprojResolveAssemblyReference.cache
+c:\users\hadi\documents\visual studio 2012\Projects\swapping\swapping\obj\Debug\swapping.exe
+c:\users\hadi\documents\visual studio 2012\Projects\swapping\swapping\obj\Debug\swapping.pdb
